@@ -105,5 +105,5 @@ export async function GET() {
          stock: 175,
          availableAt: new Date()
        }
-  // ]);
+     ]);
 }
